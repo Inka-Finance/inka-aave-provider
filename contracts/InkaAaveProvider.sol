@@ -19,9 +19,9 @@ contract InkaAaveProvider is Ownable {
     address public iWETHGateway;
 
     constructor (address _weth, address _iLendingPool, address _iWETHGateway) public {
-        require(_weth != address(0), "InkaUniswapProvider: ZERO_WETH_ADDRESS");
-        require(_iLendingPool != address(0), "InkaUniswapProvider: ZERO_LENDING_POOL_ADDRESS");
-        require(_iWETHGateway != address(0), "InkaUniswapProvider: ZERO_WETH_GATEWAY_ADDRESS");
+        require(_weth != address(0), "InkaAaveProvider: ZERO_WETH_ADDRESS");
+        require(_iLendingPool != address(0), "InkaAaveProvider: ZERO_LENDING_POOL_ADDRESS");
+        require(_iWETHGateway != address(0), "InkaAaveProvider: ZERO_WETH_GATEWAY_ADDRESS");
         WETH = _weth;
         iLendingPool = _iLendingPool;
         iWETHGateway = _iWETHGateway;
