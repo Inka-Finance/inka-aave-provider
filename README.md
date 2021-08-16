@@ -3,6 +3,12 @@
 </p>
 <p align="center">The most friendly DeFi wallet and aggregator.</p>
 
+## Table of contents
+
+- [Description](#description)
+- [How it works](#how-it-works)
+- [How to run](#how-to-run)
+
 ## Description
 
 Aave is an open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets. Aave is an open source, non-custody liquidity protocol for earning interest on deposits and borrowing assets. Inka wallet integrates with the Aave service through smart contracts in the Solidity language, which allows you to have easy access to add liquidity to the service
@@ -17,7 +23,7 @@ Aave is an open source and non-custodial liquidity protocol for earning interest
 
 <p>Smart contract InkaAaveProvder is a special layer for integration with the Aave service. This layer provides easier access to perform operations on the service.</p>
 
-## How deploy
+## How to run
 
 When developing a smart contract, the Truffle framework was used to start the deployment process, you need to set up environment variables and install the necessary libraries
 
