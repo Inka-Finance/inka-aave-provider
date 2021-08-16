@@ -18,7 +18,7 @@ Aave is an open source, non-custody liquidity protocol for earning interest on d
 ## How it works
 
 <p align="center">
-<img src="./inka_aave.png" alt="Inka aave" />
+<img src="./inka_dig.png" alt="Inka diagrams" />
 </p>
 
 <p>Smart contract InkaAaveProvder is a special layer for integration with the Aave service. This layer provides easier access to perform operations on the service.</p>
