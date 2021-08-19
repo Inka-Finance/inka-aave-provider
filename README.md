@@ -11,9 +11,9 @@
 
 ## Description
 
-Aave is an open source, non-custody liquidity protocol for earning interest on deposits and borrowing assets. Inka wallet integrates with the Aave service through smart contracts in the Solidity language, which allows you to have easy access to add liquidity to the service
+Aave is an open-source, non-custodial liquidity protocol for earning interest on deposits and borrowing assets. Inka wallet integrates with the Aave service through smart contracts in the Solidity language, which allows you to have easy access to add liquidity to the service.
 
-<p>A smart contract for using the Aave service takes a commission that is charged to the Inka wallet</p>
+<p>A smart contract for using the Aave service takes a commission that is charged to the Inka wallet.</p>
 
 ## How it works
 
